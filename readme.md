@@ -15,3 +15,5 @@ Applies to:
 By default a low-light mode is enabled.
 Use CBA Optics Illumination keybind to toggle between reticle's low and high illumination mode.
 Use CBA Attachment Switch keybind to toggle between magnified and non-magnified variant.
+
+## License: APL-SA
