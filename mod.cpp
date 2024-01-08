@@ -1,0 +1,10 @@
+name = "dzn Magnifier 2 PIP";
+actionName = "WEBSITE";
+action = "";
+tooltip = "dzn Magnifier 2 PIP";
+overview = "";
+author = "10Dozen";
+overview  = "Replace 3D scopes with magnifiers with CBA PIP optics version - Version 0.1";
+logo = "mod.paa";
+logoOver = "mod.paa";
+overviewPicture = "mod.paa";

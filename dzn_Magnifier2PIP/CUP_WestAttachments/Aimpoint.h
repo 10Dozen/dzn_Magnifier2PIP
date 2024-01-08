@@ -1,0 +1,25 @@
+#include "macro.h"
+
+#define SCOPE_RETICLE \
+	reticleTexture = RETICLE_REDDOT; \
+	reticleTextureNight = RETICLE_REDDOT_BRIGHT; \
+	manualReticleNightSwitch = 1; \
+	reticleTextureSize = 1
+	
+#define SCOPE_ZEROING 200
+#define SCOPE_MAGNIFICATION 3
+
+
+PIP_SCOPE(CUP_optic_AIMM_MICROT1_BLK);
+PIP_SCOPE(CUP_optic_AIMM_MICROT1_TAN);
+PIP_SCOPE(CUP_optic_AIMM_MICROT1_OD);
+
+PIP_SCOPE(CUP_optic_AIMM_COMPM4_BLK);
+
+PIP_SCOPE(CUP_optic_AIMM_COMPM2_BLK);
+PIP_SCOPE(CUP_optic_AIMM_COMPM2_TAN);
+PIP_SCOPE(CUP_optic_AIMM_COMPM2_OD);
+
+PIP_SCOPE(CUP_optic_AIMM_M68_BLK);
+PIP_SCOPE(CUP_optic_AIMM_M68_TAN);
+PIP_SCOPE(CUP_optic_AIMM_M68_OD);

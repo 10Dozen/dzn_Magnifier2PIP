@@ -1,0 +1,3 @@
+#define PIP_SCOPE(KLS) KLS = KLS
+
+PIP_SCOPE(CUP_optic_1P87_1P90_BLK);
